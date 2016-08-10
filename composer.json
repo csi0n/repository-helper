@@ -14,5 +14,6 @@
         "psr-0": {
             "csi0n\\repository-helper": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
